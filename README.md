@@ -1,6 +1,6 @@
-# ?éß Calls Music 2 ?? The first open-source project based on [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+# ?≈Ω¬ß Calls Music 2 ?? The first open-source project based on [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-## ?çÔ? Requirements
+## ?¬ç√Ø? Requirements
 
 - FFmpeg
 - Node.JS 15+
@@ -23,7 +23,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    python -m callsmusic
    ```
 
-### ?ê¨ Docker
+### ?¬ê¬¨ Docker
 
 1. Build:
    ```bash
@@ -34,11 +34,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
    docker run --env-file .env musicplayer
    ```
 
-### ?íµ Heroku
+### ?‚Äô¬µ Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/mrnitric/music-robo_heroku/)
+[Click here](https://heroku.com/deploy?template=https://github.com/mrnitric/music-robo/)
 
-## ?πÔ? Commands
+## ?¬π√Ø? Commands
 
 | Command | Description                                  |
 | ------- | -------------------------------------------- |
