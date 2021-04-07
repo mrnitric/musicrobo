@@ -1,0 +1,11 @@
+/handlers/admins.py @rojserbest
+/handlers/callback.py @rojserbest
+/handlers/play.py @rojserbest
+/handlers/start.py @rojserbest
+/handlers/inline.py @pokurt
+/callsmusic/ @rojserbest
+/cache/ @rojserbest
+/converter/ @rojserbest
+/youtube/ @rojserbest
+/queues/ @rojserbest
+Dockerfile @rojserbest
