@@ -1,18 +1,19 @@
-# ?Ž§ Calls Music 2 ?? The first open-source project based on [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-## ?ï? Requirements
+# 🎧 Calls Music 2 — The first open-source project based on [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
+## ✍️ Requirements
 
 - FFmpeg
 - Node.JS 15+
 - Python 3.7+
 
-## ?? Deployment
+## 🚀 Deployment
 
-### ?? Config
+### 🛠 Config
 
 Copy `example.env` to `.env` and fill it with your credentials.
 
-### ?? The good way
+### ✨ The good way
 
 1. Install Python requirements:
    ```bash
@@ -23,7 +24,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    python -m callsmusic
    ```
 
-### ?¬ Docker
+### 🐬 Docker
 
 1. Build:
    ```bash
@@ -34,11 +35,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
    docker run --env-file .env musicplayer
    ```
 
-### ?’µ Heroku
+### 💵 Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/mrnitric/music-robo/)
+[Click here](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic-2_heroku/)
 
-## ?¹ï? Commands
+## ℹ️ Commands
 
 | Command | Description                                  |
 | ------- | -------------------------------------------- |
@@ -48,8 +49,12 @@ Copy `example.env` to `.env` and fill it with your credentials.
 | /skip   | skip the current audio stream                |
 | /stop   | clear the queue and stop the audio stream    |
 
-## ?? License
+## 📄 License
 
 ### GNU Affero General Public License v3.0
 
 [Read more](https://www.gnu.org/licenses/#AGPL)
+   
+
+
+
